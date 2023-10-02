@@ -1,0 +1,14 @@
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\bin\Debug\net6.0\Videogame_DB.Infra.CrossCutting.deps.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\bin\Debug\net6.0\Videogame_DB.Infra.CrossCutting.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\bin\Debug\net6.0\Videogame_DB.Infra.CrossCutting.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\refint\Videogame_DB.Infra.CrossCutting.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\ref\Videogame_DB.Infra.CrossCutting.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\bin\Debug\net6.0\Videogame_DB.Infra.CrossCutting.runtimeconfig.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra.CrossCutting\obj\Debug\net6.0\Videogame_DB.Infra.CrossCutting.genruntimeconfig.cache

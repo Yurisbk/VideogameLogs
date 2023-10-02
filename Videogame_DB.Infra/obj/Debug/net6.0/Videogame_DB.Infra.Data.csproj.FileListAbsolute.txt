@@ -1,0 +1,17 @@
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Infra.Data.deps.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Infra.Data.runtimeconfig.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Infra.Data.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Infra.Data.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Domain.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\bin\Debug\net6.0\Videogame_DB.Domain.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.AssemblyInfo.cs
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.csproj.CopyComplete
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\refint\Videogame_DB.Infra.Data.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\Videogame_DB.Infra.Data.genruntimeconfig.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Infra\obj\Debug\net6.0\ref\Videogame_DB.Infra.Data.dll

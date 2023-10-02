@@ -1,0 +1,14 @@
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\bin\Debug\net6.0\Videogame_DB.Domain.deps.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\bin\Debug\net6.0\Videogame_DB.Domain.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\bin\Debug\net6.0\Videogame_DB.Domain.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.csproj.AssemblyReference.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.AssemblyInfoInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.AssemblyInfo.cs
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\refint\Videogame_DB.Domain.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.pdb
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\ref\Videogame_DB.Domain.dll
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\bin\Debug\net6.0\Videogame_DB.Domain.runtimeconfig.json
+C:\Users\CodeZombie\source\repos\Videogame_DB\Videogame_DB.Domain\obj\Debug\net6.0\Videogame_DB.Domain.genruntimeconfig.cache
